@@ -1,0 +1,19 @@
+{
+  "name": "recoded-backend",
+  "version": "1.0.0",
+  "description": "Backend Server for Re:Coded Client Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "shrreya",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.3"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "parse-dashboard": "^1.1.2",
+    "parse-server": "^2.7.2"
+  }
+}
